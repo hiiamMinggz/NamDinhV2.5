@@ -1,7 +1,8 @@
 # Nam Dinh Chatbot
 
 ## Requirements
-listed at requirements.txt
+listed at requirements.txt\
+
 python version : 3.8
 
 ## Running step
