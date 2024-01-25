@@ -1,0 +1,2 @@
+* sai dinh dang id
+=> chuan hoa unikey id => remove_tone -> tao procedure_name => add chuan hoa unikey vao preprocess
