@@ -12,7 +12,6 @@ step 1 : install requirements
 ```python
 python -m pip install -r requirements.txt
 ```
-
 step 2 : run API
 
 ```python
